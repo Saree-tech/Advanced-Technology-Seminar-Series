@@ -39,7 +39,7 @@ Syed Ali demonstrated the complete installation and configuration of Docker Desk
 ### 💬🔌 **Muhammad Bilal – TCP ChatRoom Application (C#)**
 
 Bilal demonstrated the practical application of networking protocols by developing a real-time ChatRoom using C# and TCP/IP. He explored client-server architecture and socket programming to establish stable, connection-oriented communication. 📡
-Project Link: GitHub Repository
+**Project Link:** [GitHub Repository](https://github.com/Muhammad-bilal-503/TCP-Chat-Room-With-C-Sharp)
 
 ---
 
