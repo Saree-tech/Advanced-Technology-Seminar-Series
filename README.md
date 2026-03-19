@@ -36,5 +36,18 @@ Syed Ali demonstrated the complete installation and configuration of Docker Desk
 
 ---
 
+### 💬🔌 **Muhammad Bilal – TCP ChatRoom Application (C#)**
+
+Bilal demonstrated the practical application of networking protocols by developing a real-time ChatRoom using C# and TCP/IP. He explored client-server architecture and socket programming to establish stable, connection-oriented communication. 📡
+Project Link: GitHub Repository
+
+---
+
+### 🐙💻 **Laiba Naeem & Nayyab Gul – Git & GitHub: Basics**
+
+Laiba and Nayyab explored the essentials of version control and collaborative software development. By breaking down the Git workflow, they illustrated how GitHub facilitates seamless team collaboration and code tracking. Their work highlights practical skills for the modern DevOps lifecycle. 🛠️
+
+---
+
 ✨ **Acknowledgment:**
 Credit goes to all contributors for their dedication, initiative, and commitment to exploring emerging technologies beyond the classroom.
