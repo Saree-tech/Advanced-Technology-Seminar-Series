@@ -49,5 +49,11 @@ Laiba and Nayyab explored the essentials of version control and collaborative so
 
 ---
 
+### 🐳📦 **Ayesha Noor & Romah Maqsood – Docker: Complete Guide to Containerization**
+
+Ayesha and Romah delivered a comprehensive exploration of Docker, covering images, containers, volumes, networking, and Compose. Their work demonstrated practical DevOps skills by explaining how Docker solves environment conflicts, enables reproducible deployments, and integrates seamlessly into CI/CD pipelines. This contribution reflects strong applied knowledge of modern software delivery workflows. ⚙️
+
+----
+
 ✨ **Acknowledgment:**
 Credit goes to all contributors for their dedication, initiative, and commitment to exploring emerging technologies beyond the classroom.
